@@ -1,0 +1,1 @@
+Sort the words alphabetically and print their counts.
